@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-##🎓 My CompTIA A+ Journey – Final Blog Post!
+My CompTIA A+ Journey – Final Blog Post!
 Today, I’ve shared various concepts from my CompTIA A+ course. It’s been an incredible learning journey, and this will be my final post where I’ll summarize what I’ve learned.
 
 Here are the key topics I covered in my course:
