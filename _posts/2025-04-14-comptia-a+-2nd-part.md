@@ -1,5 +1,5 @@
 ---
-title:  "Comptia A+ (2nd Part)"
+title:  "CompTIA A+ (2nd Part)"
 mathjax: true
 layout: post
 categories: media
