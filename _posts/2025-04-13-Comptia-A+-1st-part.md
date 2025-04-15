@@ -4,7 +4,7 @@ mathjax: true
 layout: post
 categories: media
 ---
-## CompTIA A+ Part #1 – Basics of Hardware & Troubleshooting
+# Basics of Hardware & Troubleshooting
 
 ## Summary for Blog Introduction:
 Welcome to my first blog post! 
