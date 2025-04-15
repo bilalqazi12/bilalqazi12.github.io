@@ -9,7 +9,8 @@ categories: media
 Today, I’ve shared various concepts from my CompTIA A+ course. It’s been an incredible learning journey, and this will be my final post where I’ll summarize what I’ve learned.
 
 Here are the key topics I covered in my course:
-<!--more-->
+excerpt_separator: <!--more-->
+
 ## Networking Concepts
 Network Types: LAN (Local Area Network), WAN (Wide Area Network), MAN (Metropolitan Area Network), and PAN (Personal Area Network).
 
