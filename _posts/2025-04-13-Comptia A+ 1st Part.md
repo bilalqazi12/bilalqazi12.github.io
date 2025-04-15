@@ -4,44 +4,51 @@ mathjax: true
 layout: post
 categories: media
 ---
+## CompTIA A+ Part #1 – Basics of Hardware & Troubleshooting
 
-## Code
+### Summary for Blog Introduction:
+Welcome to my first blog post! 
+I’m currently learning the CompTIA A+ course, and I’m excited to share what I’ve learned so far. 
+This post includes key concepts about hardware components and troubleshooting techniques, which are the foundation for anyone starting their career in IT or computer support.
 
-Embed code by putting `{{ "{% highlight language " }}%}` `{{ "{% endhighlight " }}%}` blocks around it. Adding the parameter `linenos` will show source lines besides the code.
+## Key Topics & Points Covered:
+### 1. Troubleshooting and Problem Identification
+The first step in IT support is to understand and fix problems using a proper method.
 
-{% highlight c %}
+🔹 Identify the issue, ask the user questions, test possible causes, apply a solution, and then confirm the issue is fixed.
+🔹 Always document the problem and solution for future reference.
 
-static void asyncEnabled(Dict* args, void* vAdmin, String* txid, struct Allocator* requestAlloc)
-{
-    struct Admin* admin = Identity_check((struct Admin*) vAdmin);
-    int64_t enabled = admin->asyncEnabled;
-    Dict d = Dict_CONST(String_CONST("asyncEnabled"), Int_OBJ(enabled), NULL);
-    Admin_sendMessage(&d, txid, admin);
-}
+## 2. Storage Devices
+Storage devices are used to save data permanently or temporarily.
 
-{% endhighlight %}
+🔹 Types include HDD, SSD, NVMe, USB, CD/DVD.
+🔹 SSDs are faster than HDDs and more reliable for performance.
 
-## Gists
+## 3. Processors and CPU
+The CPU (Central Processing Unit) is the brain of the computer.
 
-With the `jekyll-gist` plugin, which is preinstalled on Github Pages, you can embed gists simply by using the `gist` command:
+🔹 It performs all calculations and instructions.
+🔹 Speed is measured in GHz, and multi-core CPUs improve performance.
 
-{% gist 5555251 %}
+## 4. Input and Output Devices
+Devices that help users interact with the system.
 
-## Images
+🔹 Input devices: Keyboard, Mouse, Scanner, Microphone
+🔹 Output devices: Monitor, Printer, Speakers
 
-Upload an image to the *assets* folder and embed it with `![title](/assets/name.jpg))`. Keep in mind that the path needs to be adjusted if Jekyll is run inside a subfolder.
+## 5. Adapter Cards
+These are small circuit boards used to add extra functionality to a computer.
 
-A wrapper `div` with the class `large` can be used to increase the width of an image or iframe.
+🔹 Examples: Graphics Card (GPU), Network Card (NIC), Sound Card
+🔹 Installed on motherboard’s PCIe or other slots.
 
-![Flower](https://user-images.githubusercontent.com/4943215/55412447-bcdb6c80-5567-11e9-8d12-b1e35fd5e50c.jpg)
+## 6. Understanding BIOS and CMOS
+BIOS (Basic Input Output System) starts your computer and checks hardware.
 
-[Flower](https://unsplash.com/photos/iGrsa9rL11o) by Tj Holowaychuk
+🔹 CMOS stores BIOS settings like date/time and boot order.
+🔹 BIOS setup can be accessed by pressing keys like F2, Del during boot.
 
-## Embedded content
+## 7. Understanding the Motherboard
+The motherboard connects all components of a computer together.
 
-You can also embed a lot of stuff, for example from YouTube, using the `embed.html` include.
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
-
-
-{% include embed.html url="https://www.youtube.com/embed/_C0A5zX-iqM" %}
+🔹 It has slots and sockets for CPU, RAM, storage, adapter cards, and more.
