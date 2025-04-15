@@ -4,9 +4,8 @@ mathjax: true
 layout: post
 categories: media
 ---
-# CompTIA Network + – Part 1
-*Easy Guide to Networking Basics  
-*This is the first blog of the CompTIA Network+ course, which is a beginner-level certification for entering the field of Cybersecurity.*
+*Easy Guide to Networking Basics 
+*This is the first blog of the CompTIA Network+ Course, which is a beginner-level certification for entering the field of Cybersecurity.*
 
 ---
 
@@ -163,6 +162,6 @@ Channels = Control signal interference
 
 ----
 
-Stay tuned for Part 2 of CompTIA Network+.
+**Stay tuned for Part 2 of CompTIA Network+ **
 
 ---
