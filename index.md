@@ -2,7 +2,7 @@
 layout: page
 title: ""
 ---
-![Flower]([https://user-images.githubusercontent.com/4943215/55412447-bcdb6c80-5567-11e9-8d12-b1e35fd5e50c.jpg](https://media.licdn.com/dms/image/v2/D4D35AQHY8vooKW2gGQ/profile-framedphoto-shrink_200_200/B4DZYR_Z5uG4AY-/0/1744058556404?e=1745326800&v=beta&t=r2WfJhy4yue7eikQoAhj6ZhP1wanEU2-nIBDdgGx5xU))
+![Flower]([https://user-images.githubusercontent.com/4943215/55412447-bcdb6c80-5567-11e9-8d12-b1e35fd5e50c.jpg])
 
 ## Bilal Yousaf
 ### Cyber Security Engineer | CND
