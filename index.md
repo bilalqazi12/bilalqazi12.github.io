@@ -2,8 +2,6 @@
 layout: page
 title: ""
 ---
-![Flower]([https://user-images.githubusercontent.com/4943215/55412447-bcdb6c80-5567-11e9-8d12-b1e35fd5e50c.jpg])
-
 ## Bilal Yousaf
 ### Cyber Security Engineer | CND
 
