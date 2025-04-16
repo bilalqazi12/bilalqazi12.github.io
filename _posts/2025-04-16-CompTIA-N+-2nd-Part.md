@@ -6,9 +6,9 @@ categories: media
 ---
 # Network Security & Troubleshooting
 
-**Welcome to Part 2 of the CompTIA Network+ course **  
-This final section covers two major domains of the Network+ course: **Network Security** and **Network Troubleshooting**. 
----
+**Welcome to Part 2 of the CompTIA Network+ course
+This blog post covers two major topics of the Network+ course: **Network Security and Network Troubleshooting. 
+--
 
 ## Network Security
 
