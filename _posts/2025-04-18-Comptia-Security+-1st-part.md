@@ -1,5 +1,5 @@
 ---
-title:  "Comptia A+ (Part 1)"
+title:  "CompTIA Security+ (Part 1)"
 mathjax: true
 layout: post
 categories: media
