@@ -22,7 +22,7 @@ When a security incident happens (like a data breach), we follow these steps to 
 
 - **Containment:**  
   Stop the threat from spreading — like isolating infected systems.
-
+<!--more-->
 - **Eradication:**  
   Remove the root cause of the attack (delete malware, patch vulnerabilities).
 
